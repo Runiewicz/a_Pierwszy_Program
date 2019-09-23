@@ -1,0 +1,15 @@
+
+public class Main3 {
+
+	public static void main(String[] args) {
+		System.out.println("Pierwszy program JAVA");
+		//Typ komentarza jednolinijkowego
+
+		/*
+		Typ komentarza wielolinijkowy.
+		*/
+
+		/** Typ komentarza dokumentacyjnego */
+	}
+
+}
